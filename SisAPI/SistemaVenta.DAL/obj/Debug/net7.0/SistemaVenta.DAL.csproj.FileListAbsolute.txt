@@ -1,0 +1,15 @@
+F:\devOctober\workscoder\Proyectos-Cshrap-ASPNET\SisAPI\SistemaVenta.DAL\bin\Debug\net7.0\SistemaVenta.DAL.deps.json
+F:\devOctober\workscoder\Proyectos-Cshrap-ASPNET\SisAPI\SistemaVenta.DAL\bin\Debug\net7.0\SistemaVenta.DAL.dll
+F:\devOctober\workscoder\Proyectos-Cshrap-ASPNET\SisAPI\SistemaVenta.DAL\bin\Debug\net7.0\SistemaVenta.DAL.pdb
+F:\devOctober\workscoder\Proyectos-Cshrap-ASPNET\SisAPI\SistemaVenta.DAL\obj\Debug\net7.0\SistemaVenta.DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\devOctober\workscoder\Proyectos-Cshrap-ASPNET\SisAPI\SistemaVenta.DAL\obj\Debug\net7.0\SistemaVenta.DAL.AssemblyInfoInputs.cache
+F:\devOctober\workscoder\Proyectos-Cshrap-ASPNET\SisAPI\SistemaVenta.DAL\obj\Debug\net7.0\SistemaVenta.DAL.AssemblyInfo.cs
+F:\devOctober\workscoder\Proyectos-Cshrap-ASPNET\SisAPI\SistemaVenta.DAL\obj\Debug\net7.0\SistemaVenta.DAL.csproj.CoreCompileInputs.cache
+F:\devOctober\workscoder\Proyectos-Cshrap-ASPNET\SisAPI\SistemaVenta.DAL\obj\Debug\net7.0\SistemaVenta.DAL.dll
+F:\devOctober\workscoder\Proyectos-Cshrap-ASPNET\SisAPI\SistemaVenta.DAL\obj\Debug\net7.0\refint\SistemaVenta.DAL.dll
+F:\devOctober\workscoder\Proyectos-Cshrap-ASPNET\SisAPI\SistemaVenta.DAL\obj\Debug\net7.0\SistemaVenta.DAL.pdb
+F:\devOctober\workscoder\Proyectos-Cshrap-ASPNET\SisAPI\SistemaVenta.DAL\obj\Debug\net7.0\ref\SistemaVenta.DAL.dll
+F:\devOctober\workscoder\Proyectos-Cshrap-ASPNET\SisAPI\SistemaVenta.DAL\bin\Debug\net7.0\SistemaVenta.Model.dll
+F:\devOctober\workscoder\Proyectos-Cshrap-ASPNET\SisAPI\SistemaVenta.DAL\bin\Debug\net7.0\SistemaVenta.Model.pdb
+F:\devOctober\workscoder\Proyectos-Cshrap-ASPNET\SisAPI\SistemaVenta.DAL\obj\Debug\net7.0\SistemaVenta.DAL.csproj.AssemblyReference.cache
+F:\devOctober\workscoder\Proyectos-Cshrap-ASPNET\SisAPI\SistemaVenta.DAL\obj\Debug\net7.0\SistemaVenta.DAL.csproj.CopyComplete

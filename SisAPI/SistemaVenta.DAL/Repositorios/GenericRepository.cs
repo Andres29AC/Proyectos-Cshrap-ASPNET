@@ -18,20 +18,40 @@ namespace SistemaVenta.DAL.Repositorios
         {
             _dbcontext = dbcontext;
         }
-        public async  Task<TModelo> Obener(Expression<Func<TModelo, bool>> filtro)
+        public  async Task<TModelo> Obtener(Expression<Func<TModelo, bool>> filtro)
         {
-            try{
+            try
+            {
                 TModelo modelo = await _dbcontext.Set<TModelo>().FirstOrDefaultAsync(filtro);
                 return modelo;
             }
-            catch{
+            catch
+            {
                 throw;
             }
         }
-        public Task<TModelo> Crear(TModelo modelo)
+        public async Task<TModelo> Crear(TModelo modelo)
         {
             try
             {
+                _dbcontext.Set<TModelo>().Add(modelo);
+                await _dbcontext.SaveChangesAsync();
+                return modelo;
+            }
+            catch
+            {
+                throw;
+
+            }
+        }
+
+        public async Task<bool> Editar(TModelo modelo)
+        {
+            try
+            {   //NOTE: Estableciendo el modelo
+                _dbcontext.Set<TModelo>().Update(modelo);
+                await _dbcontext.SaveChangesAsync();
+                return true;
 
             }
             catch
@@ -39,10 +59,15 @@ namespace SistemaVenta.DAL.Repositorios
                 throw;
             }
         }
-        public Task<bool> Editar(TModelo modelo)
+
+        public async Task<bool> Eliminar(TModelo modelo)
         {
             try
             {
+                //NOTE: Estableciendo el modelo
+                _dbcontext.Set<TModelo>().Remove(modelo);
+                await _dbcontext.SaveChangesAsync();
+                return true;
 
             }
             catch
@@ -50,10 +75,14 @@ namespace SistemaVenta.DAL.Repositorios
                 throw;
             }
         }
-        public Task<bool> Eliminar(TModelo modelo)
+        public async Task<IQueryable<TModelo>> Consultar(Expression<Func<TModelo, bool>> filtro = null)
         {
             try
             {
+                //IQuereble sirve para hacer consultas cada vez que se necesite
+                IQueryable<TModelo> queryModel = filtro == null ? _dbcontext.Set<TModelo>() : _dbcontext.Set<TModelo>().Where(filtro);
+                return queryModel;
+                
 
             }
             catch
@@ -62,16 +91,5 @@ namespace SistemaVenta.DAL.Repositorios
             }
         }
 
-        public Task<IQueryable<TModelo>> Consultar(Expression<Func<TModelo, bool>> filtro = null)
-        {
-            try
-            {
-
-            }
-            catch
-            {
-                throw;
-            }
-        }       
     }
 }

@@ -1,13 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "Fuq5+EuOJ4OVUeuOu9zSewBnBb5xY4fVSAnOm8F2WsgSxj1yw14j3cfcmtjpfa0pUMNVR6F/Yf00pZmCYKUDQA==",
+  "dgSpecHash": "YD68RAKZhe+jsa2+rnfR/PelG/wBZ8BA4wv7zeEj9S1lSr/NObpZbYM460dChvd7jGMJCeMb4DeXcV0tOBJaUA==",
   "success": true,
   "projectFilePath": "F:\\devOctober\\workscoder\\Proyectos-Cshrap-ASPNET\\SisAPI\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\diego karlo amaro ca\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\diego karlo amaro ca\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\diego karlo amaro ca\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
     "C:\\Users\\diego karlo amaro ca\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
-    "C:\\Users\\diego karlo amaro ca\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\diego karlo amaro ca\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\diego karlo amaro ca\\.nuget\\packages\\microsoft.data.sqlclient\\5.1.1\\microsoft.data.sqlclient.5.1.1.nupkg.sha512",
     "C:\\Users\\diego karlo amaro ca\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\5.1.0\\microsoft.data.sqlclient.sni.runtime.5.1.0.nupkg.sha512",
     "C:\\Users\\diego karlo amaro ca\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.12\\microsoft.entityframeworkcore.7.0.12.nupkg.sha512",

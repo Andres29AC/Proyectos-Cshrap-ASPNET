@@ -21,8 +21,9 @@ namespace SistemaVenta.IOC
                 options.UseSqlServer(configuration.GetConnectionString("cadenaSQL"));
             });
             //Inyectando dependencia de repositorios
-            services.AddTransient(typeof(IGenericRepository<>),typeof(IGenericRepository<>));
+            services.AddTransient(typeof(IGenericRepository<>), typeof(GenericRepository<>));
             services.AddScoped<IVentaRepository, VentaRepository>();
+
 
             //ingles-->try iy out -->pruebalo
         }

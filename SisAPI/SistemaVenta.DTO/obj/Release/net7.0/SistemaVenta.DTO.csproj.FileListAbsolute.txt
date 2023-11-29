@@ -1,0 +1,11 @@
+F:\devOctober\workscoder\Proyectos-Cshrap-ASPNET\SisAPI\SistemaVenta.DTO\bin\Release\net7.0\SistemaVenta.DTO.deps.json
+F:\devOctober\workscoder\Proyectos-Cshrap-ASPNET\SisAPI\SistemaVenta.DTO\bin\Release\net7.0\SistemaVenta.DTO.dll
+F:\devOctober\workscoder\Proyectos-Cshrap-ASPNET\SisAPI\SistemaVenta.DTO\bin\Release\net7.0\SistemaVenta.DTO.pdb
+F:\devOctober\workscoder\Proyectos-Cshrap-ASPNET\SisAPI\SistemaVenta.DTO\obj\Release\net7.0\SistemaVenta.DTO.GeneratedMSBuildEditorConfig.editorconfig
+F:\devOctober\workscoder\Proyectos-Cshrap-ASPNET\SisAPI\SistemaVenta.DTO\obj\Release\net7.0\SistemaVenta.DTO.AssemblyInfoInputs.cache
+F:\devOctober\workscoder\Proyectos-Cshrap-ASPNET\SisAPI\SistemaVenta.DTO\obj\Release\net7.0\SistemaVenta.DTO.AssemblyInfo.cs
+F:\devOctober\workscoder\Proyectos-Cshrap-ASPNET\SisAPI\SistemaVenta.DTO\obj\Release\net7.0\SistemaVenta.DTO.csproj.CoreCompileInputs.cache
+F:\devOctober\workscoder\Proyectos-Cshrap-ASPNET\SisAPI\SistemaVenta.DTO\obj\Release\net7.0\SistemaVenta.DTO.dll
+F:\devOctober\workscoder\Proyectos-Cshrap-ASPNET\SisAPI\SistemaVenta.DTO\obj\Release\net7.0\refint\SistemaVenta.DTO.dll
+F:\devOctober\workscoder\Proyectos-Cshrap-ASPNET\SisAPI\SistemaVenta.DTO\obj\Release\net7.0\SistemaVenta.DTO.pdb
+F:\devOctober\workscoder\Proyectos-Cshrap-ASPNET\SisAPI\SistemaVenta.DTO\obj\Release\net7.0\ref\SistemaVenta.DTO.dll

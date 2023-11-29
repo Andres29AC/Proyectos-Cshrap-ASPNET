@@ -1,0 +1,17 @@
+F:\devOctober\workscoder\Proyectos-Cshrap-ASPNET\SisAPI\SistemaVenta.Utility\bin\Release\net7.0\SistemaVenta.Utility.deps.json
+F:\devOctober\workscoder\Proyectos-Cshrap-ASPNET\SisAPI\SistemaVenta.Utility\bin\Release\net7.0\SistemaVenta.Utility.dll
+F:\devOctober\workscoder\Proyectos-Cshrap-ASPNET\SisAPI\SistemaVenta.Utility\bin\Release\net7.0\SistemaVenta.Utility.pdb
+F:\devOctober\workscoder\Proyectos-Cshrap-ASPNET\SisAPI\SistemaVenta.Utility\bin\Release\net7.0\SistemaVenta.DTO.dll
+F:\devOctober\workscoder\Proyectos-Cshrap-ASPNET\SisAPI\SistemaVenta.Utility\bin\Release\net7.0\SistemaVenta.Model.dll
+F:\devOctober\workscoder\Proyectos-Cshrap-ASPNET\SisAPI\SistemaVenta.Utility\bin\Release\net7.0\SistemaVenta.DTO.pdb
+F:\devOctober\workscoder\Proyectos-Cshrap-ASPNET\SisAPI\SistemaVenta.Utility\bin\Release\net7.0\SistemaVenta.Model.pdb
+F:\devOctober\workscoder\Proyectos-Cshrap-ASPNET\SisAPI\SistemaVenta.Utility\obj\Release\net7.0\SistemaVenta.Utility.csproj.AssemblyReference.cache
+F:\devOctober\workscoder\Proyectos-Cshrap-ASPNET\SisAPI\SistemaVenta.Utility\obj\Release\net7.0\SistemaVenta.Utility.GeneratedMSBuildEditorConfig.editorconfig
+F:\devOctober\workscoder\Proyectos-Cshrap-ASPNET\SisAPI\SistemaVenta.Utility\obj\Release\net7.0\SistemaVenta.Utility.AssemblyInfoInputs.cache
+F:\devOctober\workscoder\Proyectos-Cshrap-ASPNET\SisAPI\SistemaVenta.Utility\obj\Release\net7.0\SistemaVenta.Utility.AssemblyInfo.cs
+F:\devOctober\workscoder\Proyectos-Cshrap-ASPNET\SisAPI\SistemaVenta.Utility\obj\Release\net7.0\SistemaVenta.Utility.csproj.CoreCompileInputs.cache
+F:\devOctober\workscoder\Proyectos-Cshrap-ASPNET\SisAPI\SistemaVenta.Utility\obj\Release\net7.0\SistemaVenta.Utility.csproj.CopyComplete
+F:\devOctober\workscoder\Proyectos-Cshrap-ASPNET\SisAPI\SistemaVenta.Utility\obj\Release\net7.0\SistemaVenta.Utility.dll
+F:\devOctober\workscoder\Proyectos-Cshrap-ASPNET\SisAPI\SistemaVenta.Utility\obj\Release\net7.0\refint\SistemaVenta.Utility.dll
+F:\devOctober\workscoder\Proyectos-Cshrap-ASPNET\SisAPI\SistemaVenta.Utility\obj\Release\net7.0\SistemaVenta.Utility.pdb
+F:\devOctober\workscoder\Proyectos-Cshrap-ASPNET\SisAPI\SistemaVenta.Utility\obj\Release\net7.0\ref\SistemaVenta.Utility.dll

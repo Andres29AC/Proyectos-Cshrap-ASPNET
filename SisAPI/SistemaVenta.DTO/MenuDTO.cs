@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SistemaVenta.DTO
 {
-    internal class MenuDTO
+    public class MenuDTO
     {
         public int IdMenu { get; set; }
 

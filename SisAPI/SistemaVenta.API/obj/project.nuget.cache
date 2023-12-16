@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "QGzGcfanrwWzIr53+MeSsJJXb2LAbK7QJkYxIqYs/AAQSdPiDfcKnXXfRwcquUXAwtz9VzuL3G1xuPLESqU0SQ==",
+  "dgSpecHash": "t+6buTYejSJ99zVLM2yZDK7iyGaTqhEtT7G13O1ByAtZDeMZJeuvadE9QOBhbEa1xw3GSfe3u1pkPb9+qlgGsQ==",
   "success": true,
   "projectFilePath": "F:\\devOctober\\workscoder\\Proyectos-Cshrap-ASPNET\\SisAPI\\SistemaVenta.API\\SistemaVenta.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\diego karlo amaro ca\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\diego karlo amaro ca\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "C:\\Users\\diego karlo amaro ca\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\diego karlo amaro ca\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
     "C:\\Users\\diego karlo amaro ca\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.12\\microsoft.aspnetcore.openapi.7.0.12.nupkg.sha512",

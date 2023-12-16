@@ -81,3 +81,5 @@ F:\devOctober\workscoder\Proyectos-Cshrap-ASPNET\SisAPI\SistemaVenta.API\bin\Deb
 F:\devOctober\workscoder\Proyectos-Cshrap-ASPNET\SisAPI\SistemaVenta.API\bin\Debug\net7.0\SistemaVenta.DAL.pdb
 F:\devOctober\workscoder\Proyectos-Cshrap-ASPNET\SisAPI\SistemaVenta.API\bin\Debug\net7.0\SistemaVenta.Model.pdb
 F:\devOctober\workscoder\Proyectos-Cshrap-ASPNET\SisAPI\SistemaVenta.API\bin\Debug\net7.0\SistemaVenta.Utility.pdb
+F:\devOctober\workscoder\Proyectos-Cshrap-ASPNET\SisAPI\SistemaVenta.API\bin\Debug\net7.0\AutoMapper.dll
+F:\devOctober\workscoder\Proyectos-Cshrap-ASPNET\SisAPI\SistemaVenta.API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

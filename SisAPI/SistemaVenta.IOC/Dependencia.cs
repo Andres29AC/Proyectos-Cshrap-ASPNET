@@ -9,7 +9,7 @@ using System.Text;
 using System.Threading.Tasks;
 using SistemaVenta.DAL.Repositorios.Contrato;
 using SistemaVenta.DAL.Repositorios;
-
+using SistemaVenta.Utility;
 namespace SistemaVenta.IOC
 {
     public static class Dependencia
@@ -23,9 +23,8 @@ namespace SistemaVenta.IOC
             //Inyectando dependencia de repositorios
             services.AddTransient(typeof(IGenericRepository<>), typeof(GenericRepository<>));
             services.AddScoped<IVentaRepository, VentaRepository>();
-
-
             //ingles-->try iy out -->pruebalo
+            services.AddAutoMapper(typeof(AutoMapperProfile));
         }
     }
-}
+}        

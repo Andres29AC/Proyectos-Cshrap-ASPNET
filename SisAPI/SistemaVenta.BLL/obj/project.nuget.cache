@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "DXeG2x4HuaxGe4sjwipBvN1cSx9W/wkuTkVMB6SbUbTWqGBKokmHSMzRz/v9Ly5e2efyDEECWBFlZisMjDGZaA==",
+  "dgSpecHash": "k5EyHfWdOeDfhZI0N9vQ61IuolJcdWgGOAgvlDNk4wngwj0OrXXVK/bNR17vavrrOw19yOFkgZezC50lUxwA8w==",
   "success": true,
   "projectFilePath": "F:\\devOctober\\workscoder\\Proyectos-Cshrap-ASPNET\\SisAPI\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\diego karlo amaro ca\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\diego karlo amaro ca\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "C:\\Users\\diego karlo amaro ca\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\diego karlo amaro ca\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
     "C:\\Users\\diego karlo amaro ca\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",

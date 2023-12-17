@@ -81,7 +81,7 @@ namespace SistemaVenta.BLL.Servicios
                 usuarioEncontrado.Clave = usuarioModelo.Clave;
                 usuarioEncontrado.EsActivo = usuarioModelo.EsActivo;
                 bool respuesta = await _usuarioRepository.Editar(usuarioEncontrado);
-                if (respuesta)
+                if (!respuesta)
                     throw new TaskCanceledException("No se pudo editar el Usuario");
                 return respuesta;
             }
@@ -100,7 +100,7 @@ namespace SistemaVenta.BLL.Servicios
                 if (usuarioEncontrado == null)
                     throw new TaskCanceledException("El usuario no existe");
                 bool respuesta = await _usuarioRepository.Eliminar(usuarioEncontrado);
-                if (respuesta)
+                if (!respuesta)
                     throw new TaskCanceledException("No se pudo eliminar el Usuario");
                 return respuesta;
             } catch {

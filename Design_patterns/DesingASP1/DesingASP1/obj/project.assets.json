@@ -1,0 +1,94 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "Tools/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Tools.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Tools.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tools/1.0.0": {
+      "type": "project",
+      "path": "../Tools/Tools.csproj",
+      "msbuildProject": "../Tools/Tools.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "Tools >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\diego karlo amaro ca\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "F:\\devOctober\\workscoder\\Proyectos-Cshrap-ASPNET\\Design_patterns\\DesingASP1\\DesingASP1\\DesingASP1.csproj",
+      "projectName": "DesingASP1",
+      "projectPath": "F:\\devOctober\\workscoder\\Proyectos-Cshrap-ASPNET\\Design_patterns\\DesingASP1\\DesingASP1\\DesingASP1.csproj",
+      "packagesPath": "C:\\Users\\diego karlo amaro ca\\.nuget\\packages\\",
+      "outputPath": "F:\\devOctober\\workscoder\\Proyectos-Cshrap-ASPNET\\Design_patterns\\DesingASP1\\DesingASP1\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\diego karlo amaro ca\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "F:\\devOctober\\workscoder\\Proyectos-Cshrap-ASPNET\\Design_patterns\\DesingASP1\\Tools\\Tools.csproj": {
+              "projectPath": "F:\\devOctober\\workscoder\\Proyectos-Cshrap-ASPNET\\Design_patterns\\DesingASP1\\Tools\\Tools.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

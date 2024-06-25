@@ -1,0 +1,11 @@
+F:\devOctober\workscoder\Proyectos-Cshrap-ASPNET\Design_patterns\DesingASP1\Tools\bin\Debug\net7.0\Tools.deps.json
+F:\devOctober\workscoder\Proyectos-Cshrap-ASPNET\Design_patterns\DesingASP1\Tools\bin\Debug\net7.0\Tools.dll
+F:\devOctober\workscoder\Proyectos-Cshrap-ASPNET\Design_patterns\DesingASP1\Tools\bin\Debug\net7.0\Tools.pdb
+F:\devOctober\workscoder\Proyectos-Cshrap-ASPNET\Design_patterns\DesingASP1\Tools\obj\Debug\net7.0\Tools.GeneratedMSBuildEditorConfig.editorconfig
+F:\devOctober\workscoder\Proyectos-Cshrap-ASPNET\Design_patterns\DesingASP1\Tools\obj\Debug\net7.0\Tools.AssemblyInfoInputs.cache
+F:\devOctober\workscoder\Proyectos-Cshrap-ASPNET\Design_patterns\DesingASP1\Tools\obj\Debug\net7.0\Tools.AssemblyInfo.cs
+F:\devOctober\workscoder\Proyectos-Cshrap-ASPNET\Design_patterns\DesingASP1\Tools\obj\Debug\net7.0\Tools.csproj.CoreCompileInputs.cache
+F:\devOctober\workscoder\Proyectos-Cshrap-ASPNET\Design_patterns\DesingASP1\Tools\obj\Debug\net7.0\Tools.dll
+F:\devOctober\workscoder\Proyectos-Cshrap-ASPNET\Design_patterns\DesingASP1\Tools\obj\Debug\net7.0\refint\Tools.dll
+F:\devOctober\workscoder\Proyectos-Cshrap-ASPNET\Design_patterns\DesingASP1\Tools\obj\Debug\net7.0\Tools.pdb
+F:\devOctober\workscoder\Proyectos-Cshrap-ASPNET\Design_patterns\DesingASP1\Tools\obj\Debug\net7.0\ref\Tools.dll

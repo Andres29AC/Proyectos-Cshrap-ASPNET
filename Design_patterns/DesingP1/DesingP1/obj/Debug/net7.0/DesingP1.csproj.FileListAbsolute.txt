@@ -1,0 +1,14 @@
+F:\devOctober\workscoder\Proyectos-Cshrap-ASPNET\Design_patterns\DesingP1\DesingP1\bin\Debug\net7.0\DesingP1.exe
+F:\devOctober\workscoder\Proyectos-Cshrap-ASPNET\Design_patterns\DesingP1\DesingP1\bin\Debug\net7.0\DesingP1.deps.json
+F:\devOctober\workscoder\Proyectos-Cshrap-ASPNET\Design_patterns\DesingP1\DesingP1\bin\Debug\net7.0\DesingP1.runtimeconfig.json
+F:\devOctober\workscoder\Proyectos-Cshrap-ASPNET\Design_patterns\DesingP1\DesingP1\bin\Debug\net7.0\DesingP1.dll
+F:\devOctober\workscoder\Proyectos-Cshrap-ASPNET\Design_patterns\DesingP1\DesingP1\bin\Debug\net7.0\DesingP1.pdb
+F:\devOctober\workscoder\Proyectos-Cshrap-ASPNET\Design_patterns\DesingP1\DesingP1\obj\Debug\net7.0\DesingP1.GeneratedMSBuildEditorConfig.editorconfig
+F:\devOctober\workscoder\Proyectos-Cshrap-ASPNET\Design_patterns\DesingP1\DesingP1\obj\Debug\net7.0\DesingP1.AssemblyInfoInputs.cache
+F:\devOctober\workscoder\Proyectos-Cshrap-ASPNET\Design_patterns\DesingP1\DesingP1\obj\Debug\net7.0\DesingP1.AssemblyInfo.cs
+F:\devOctober\workscoder\Proyectos-Cshrap-ASPNET\Design_patterns\DesingP1\DesingP1\obj\Debug\net7.0\DesingP1.csproj.CoreCompileInputs.cache
+F:\devOctober\workscoder\Proyectos-Cshrap-ASPNET\Design_patterns\DesingP1\DesingP1\obj\Debug\net7.0\DesingP1.dll
+F:\devOctober\workscoder\Proyectos-Cshrap-ASPNET\Design_patterns\DesingP1\DesingP1\obj\Debug\net7.0\refint\DesingP1.dll
+F:\devOctober\workscoder\Proyectos-Cshrap-ASPNET\Design_patterns\DesingP1\DesingP1\obj\Debug\net7.0\DesingP1.pdb
+F:\devOctober\workscoder\Proyectos-Cshrap-ASPNET\Design_patterns\DesingP1\DesingP1\obj\Debug\net7.0\DesingP1.genruntimeconfig.cache
+F:\devOctober\workscoder\Proyectos-Cshrap-ASPNET\Design_patterns\DesingP1\DesingP1\obj\Debug\net7.0\ref\DesingP1.dll
